@@ -1,4 +1,3 @@
-debloat-discord
 Fast and easy method to debloat discord.
 
 Go to C:\Users\Administrator\AppData\Local\Discord\app-1.0.9001\modules
